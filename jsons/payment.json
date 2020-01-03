@@ -1,0 +1,17 @@
+{
+  "fullName": "ADENIYI AJAYI",
+  "agentName": null,
+  "policies": ["110501061901"],
+  "clientAddress": "11, OLABANJI STREET, NEW GARAGE IBADAN",
+  "clientEmail": "abiodunajai@yahoo.com",
+  "clientPhoneNumber": "08060559821",
+  "wef": "25-Oct-2019",
+  "wet": "25-Oct-2019",
+  "totalAmount": "₦5,000.00",
+  "printPolicyUrl": "https://portal.aiicoplc.com/api/services/app/BuyProduct/GetMotorCertificate?tr=MOT-67B5C5",
+  "printReceiptUrl": null,
+  "hash": "5bcd1440898004a45e13508ed0023b4cc96d330dd4e2e247089dfe1f47a519d25db84fce6a030cb6ccb993bda46977d99e2c190b64691cf06f82acf445d9d8f8",
+  "responseMessage": null,
+  "responseCode": null,
+  "polledToTQ": false
+}

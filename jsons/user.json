@@ -1,0 +1,15 @@
+{
+  "_id": "5db2bcc68f022a767684356a",
+  "invited": false,
+  "firstName": "ADENIYI",
+  "lastName": "AJAYI",
+  "email": "abiodunajai@yahoo.com",
+  "phone": "08060559821",
+  "gender": "01439e44-98cf-e711-83b7-44850015c0e7",
+  "address": "11, OLABANJI STREET, NEW GARAGE IBADAN",
+  "password": "$2a$10$7ckN3134bQ4044Cyvb811OtdwwY74CeWkc5ET28TW5WUru8ErKdAm",
+  "dateOfBirth": "1977-10-01T09:08:00.000Z",
+  "accountType": 3,
+  "role": "user",
+  "createdDate": "2019-10-25T09:13:42.059Z"
+}
